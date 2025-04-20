@@ -1,0 +1,2 @@
+[2025-04-20 16:01:39,910 ] 19 root -INFO -Entered the Try block
+[2025-04-20 16:01:39,910 ] 23 root -ERROR -An exception occurred: division by zero
