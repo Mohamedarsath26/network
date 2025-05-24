@@ -101,16 +101,5 @@ class DataIngestion:
             
             return dataingestionartifact
 
-
-
-
-            
-
-            
-
-
-
-
-            
         except Exception as e:
             raise NetworkSecurityException(e,sys)
