@@ -1,0 +1,5 @@
+[2025-05-25 02:27:50,032 ] 18 root -INFO -Initiate the data ingestion
+[2025-05-25 02:28:04,251 ] 72 root -INFO -Performed Train test split
+[2025-05-25 02:28:04,251 ] 78 root -INFO -Exporting train and test filepath
+[2025-05-25 02:28:04,419 ] 88 root -INFO -Exported Train and test file path
+[2025-05-25 02:28:04,420 ] 20 root -INFO -Data initiation Completed
