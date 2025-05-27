@@ -128,7 +128,6 @@ class DataValidation:
             os.makedirs(train_dir, exist_ok=True)
             os.makedirs(test_dir, exist_ok=True)
 
-        
             if not status:
                 train_dataframe.to_csv(self.data_validation_config.valid_train_file_path)
 
