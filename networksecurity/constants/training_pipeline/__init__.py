@@ -40,8 +40,8 @@ DATA_TRANSFORMATION_TRANSFORMED_OBJECT_DIR:str = "transformed_object"
 PREPROCESSING_OBJECT_FILE_NAME:str = "preprocessor.pkl"
 
 DATA_TRANSFORMATION_IMPUTER_PARAMETER:dict={
-    "missing_valued":np.nan,
-    "n_neighbours":3,
+    "missing_values":np.nan,
+    "n_neighbors":3,
     "weights" : "uniform"
 }
 

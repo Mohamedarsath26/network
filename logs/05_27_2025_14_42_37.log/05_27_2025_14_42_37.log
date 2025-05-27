@@ -1,0 +1,15 @@
+[2025-05-27 14:42:38,986 ] 19 root -INFO -Initiate the data ingestion
+[2025-05-27 14:42:55,911 ] 72 root -INFO -Performed Train test split
+[2025-05-27 14:42:55,912 ] 78 root -INFO -Exporting train and test filepath
+[2025-05-27 14:42:56,084 ] 88 root -INFO -Exported Train and test file path
+[2025-05-27 14:42:56,085 ] 21 root -INFO -Data initiation Completed
+[2025-05-27 14:42:56,092 ] 28 root -INFO -initiate the data validation config
+[2025-05-27 14:42:56,174 ] 103 root -INFO -Read train and test data successfully
+[2025-05-27 14:42:56,174 ] 43 root -INFO -Required no of columns:2
+[2025-05-27 14:42:56,175 ] 44 root -INFO -Datafram has:31
+[2025-05-27 14:42:56,175 ] 43 root -INFO -Required no of columns:2
+[2025-05-27 14:42:56,175 ] 44 root -INFO -Datafram has:31
+[2025-05-27 14:42:56,376 ] 32 root -INFO -Data validation completed
+[2025-05-27 14:42:56,377 ] 53 root -INFO -Entering into datatransformation of class of DataTransformation
+[2025-05-27 14:42:56,377 ] 55 root -INFO -starting data transformation
+[2025-05-27 14:42:56,439 ] 38 root -INFO -Entered get_data_transformer_object method of Transformation class
