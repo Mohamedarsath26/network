@@ -1,0 +1,18 @@
+[2025-06-01 00:55:09,191 ] 20 root -INFO -Initiate the data ingestion
+[2025-06-01 00:55:24,286 ] 72 root -INFO -Performed Train test split
+[2025-06-01 00:55:24,287 ] 78 root -INFO -Exporting train and test filepath
+[2025-06-01 00:55:24,521 ] 88 root -INFO -Exported Train and test file path
+[2025-06-01 00:55:24,524 ] 22 root -INFO -Data initiation Completed
+[2025-06-01 00:55:24,532 ] 29 root -INFO -initiate the data validation config
+[2025-06-01 00:55:24,674 ] 103 root -INFO -Read train and test data successfully
+[2025-06-01 00:55:24,674 ] 43 root -INFO -Required no of columns:2
+[2025-06-01 00:55:24,674 ] 44 root -INFO -Datafram has:31
+[2025-06-01 00:55:24,674 ] 43 root -INFO -Required no of columns:2
+[2025-06-01 00:55:24,675 ] 44 root -INFO -Datafram has:31
+[2025-06-01 00:55:24,945 ] 33 root -INFO -Data validation completed
+[2025-06-01 00:55:24,945 ] 53 root -INFO -Entering into datatransformation of class of DataTransformation
+[2025-06-01 00:55:24,945 ] 55 root -INFO -starting data transformation
+[2025-06-01 00:55:25,039 ] 38 root -INFO -Entered get_data_transformer_object method of Transformation class
+[2025-06-01 00:55:25,039 ] 43 root -INFO -Initialize knn imputer with {'missing_values': nan, 'n_neighbors': 3, 'weights': 'uniform'} parameters
+[2025-06-01 00:55:25,080 ] 43 root -INFO -Data Transformation is completed
+[2025-06-01 00:55:25,081 ] 47 root -INFO -Model Trainer Starts

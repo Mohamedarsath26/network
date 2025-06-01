@@ -20,6 +20,11 @@ Data Ingestion related constant start with DATA_INGESTION VAR NAME
 
 """
 
+SAVED_MODEL_DIR = os.path.join("saved_models")
+MODEL_FILE_NAME = "model.pkl"
+
+
+
 DATA_INGESTION_COLLECTION_NAME: str = "NetworkData"
 DATA_INGESTION_DATABASE_NAME: str = "ARSATHAI"
 DATA_INGESTION_DIR_NAME: str = "data_ingestion"
@@ -45,3 +50,12 @@ DATA_TRANSFORMATION_IMPUTER_PARAMETER:dict={
     "weights" : "uniform"
 }
 
+MODEL_TRAINER_DIR_NAME = "model_trainer"
+
+MODEL_TRAINER_TRAINED_MODEL_DIR = "trained_model"
+
+MODEL_TRAINER_FILE_NAME = "model.pkl"
+
+MODEL_TRAINER_EXPECTED_SCORE = 0.6
+
+MODEL_TRAINER_OVERFITTING_UNDERFITTING_THRESHOLD = 0.05
